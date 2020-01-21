@@ -35,8 +35,8 @@
           href="CompositionRelationship_8bb6fd10-92b1-43d3-82a8-849414a35c50.xml#8bb6fd10-92b1-43d3-82a8-849414a35c50"/>
     </sourceConnections>
     <bounds
-        x="561"
-        y="426"
+        x="324"
+        y="204"
         width="601"
         height="133"/>
     <children
@@ -107,8 +107,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="69fa49ba-2edb-425c-819a-8d96a0d4b6e5">
     <bounds
-        x="405"
-        y="330"
+        x="168"
+        y="108"
         width="120"
         height="49"/>
     <archimateElement
@@ -119,8 +119,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="72effe6e-0286-42f7-8666-70a801401b3b">
     <bounds
-        x="405"
-        y="618"
+        x="168"
+        y="396"
         width="120"
         height="55"/>
     <archimateElement
@@ -131,8 +131,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ff459f21-8942-479b-b35e-8720a987d0c3">
     <bounds
-        x="405"
-        y="450"
+        x="168"
+        y="228"
         width="120"
         height="97"/>
     <archimateElement
@@ -143,8 +143,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9b478fac-559e-4420-bd5b-a633077e9c63">
     <bounds
-        x="717"
-        y="618"
+        x="480"
+        y="396"
         width="109"
         height="55"/>
     <archimateElement
