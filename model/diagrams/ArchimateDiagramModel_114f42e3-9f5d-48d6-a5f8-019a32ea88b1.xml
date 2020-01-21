@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Processus - Gestion des adhésions"
+    name="Processus - Gestion d'adhésion"
     id="114f42e3-9f5d-48d6-a5f8-019a32ea88b1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
