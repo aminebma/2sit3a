@@ -296,7 +296,7 @@
       targetConnections="d728bbec-c901-4791-a548-67d340a026fd c9e70ada-a2eb-4944-8e1e-7836d116da5b">
     <bounds
         x="24"
-        y="315"
+        y="336"
         width="121"
         height="49"/>
     <archimateElement
@@ -405,7 +405,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="396"
+        y="432"
         width="121"
         height="49"/>
     <archimateElement
@@ -555,7 +555,7 @@
     </sourceConnections>
     <bounds
         x="324"
-        y="420"
+        y="462"
         width="181"
         height="49"/>
     <archimateElement
@@ -577,7 +577,7 @@
     </sourceConnections>
     <bounds
         x="366"
-        y="309"
+        y="372"
         width="97"
         height="61"/>
     <archimateElement
@@ -1047,7 +1047,7 @@
     </sourceConnections>
     <bounds
         x="325"
-        y="493"
+        y="529"
         width="180"
         height="60"/>
     <archimateElement
@@ -1069,7 +1069,7 @@
     </sourceConnections>
     <bounds
         x="330"
-        y="576"
+        y="612"
         width="169"
         height="80"/>
     <archimateElement
